@@ -109,15 +109,19 @@ export const CONFIG: {
       },
       {
         name: "VS Code",
+        logo: "vs-code",
       },
       {
         name: "Adobe XD",
+        logo: "adobe-xd",
       },
       {
         name: "Adobe Photoshop",
+        logo: "adobe-photoshop",
       },
       {
         name: "Adobe Illustrator",
+        logo: "adobe-illustrator",
       },
       {
         name: "Discord",
